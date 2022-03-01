@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.6e7857a8.css",
+    "main.js": "/developerFolio/static/js/main.ec712925.js",
+    "static/css/141.27c49f1b.chunk.css": "/developerFolio/static/css/141.27c49f1b.chunk.css",
+    "static/js/141.64e3f89c.chunk.js": "/developerFolio/static/js/141.64e3f89c.chunk.js",
+    "static/css/769.70f3b610.chunk.css": "/developerFolio/static/css/769.70f3b610.chunk.css",
+    "static/js/769.7be7f469.chunk.js": "/developerFolio/static/js/769.7be7f469.chunk.js",
+    "static/media/it_automation.png": "/developerFolio/static/media/it_automation.548150891cc2e3e241fa.png",
+    "static/media/itsupport.png": "/developerFolio/static/media/itsupport.fa80b656945223f84cf8.png",
+    "static/media/himatif.png": "/developerFolio/static/media/himatif.1f4c899dced5357cf012.png",
+    "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/lebong.png": "/developerFolio/static/media/lebong.3c7345f20973f864c478.png",
+    "static/media/unib.png": "/developerFolio/static/media/unib.a1a3656397c1fed61f87.png",
+    "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/digital.png": "/developerFolio/static/media/digital.a9070fea4934f42488f1.png",
+    "static/media/pemkot.jpg": "/developerFolio/static/media/pemkot.883ebb6af133bf1072e8.jpg",
+    "static/media/mingchi.png": "/developerFolio/static/media/mingchi.5feb2d99b9db6deebfc8.png",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/bangkit.jpg": "/developerFolio/static/media/bangkit.96510bb8cd9c2a5f7796.jpg",
+    "static/media/math.png": "/developerFolio/static/media/math.6d4602d23076d198d4ae.png",
+    "static/media/python.jpg": "/developerFolio/static/media/python.3eee5a02eaf442b56b83.jpg",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/tf.png": "/developerFolio/static/media/tf.6ceb7cdbe9b8c69dd0e9.png",
+    "static/media/mikrotik.png": "/developerFolio/static/media/mikrotik.898f37ef764cafd7b65f.png",
+    "static/media/tcs.jpg": "/developerFolio/static/media/tcs.5181c3a8b5c59f93eed5.jpg",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/developerFolio/index.html",
+    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.6e7857a8.css.map": "/developerFolio/static/css/main.6e7857a8.css.map",
+    "main.ec712925.js.map": "/developerFolio/static/js/main.ec712925.js.map",
+    "141.27c49f1b.chunk.css.map": "/developerFolio/static/css/141.27c49f1b.chunk.css.map",
+    "141.64e3f89c.chunk.js.map": "/developerFolio/static/js/141.64e3f89c.chunk.js.map",
+    "769.70f3b610.chunk.css.map": "/developerFolio/static/css/769.70f3b610.chunk.css.map",
+    "769.7be7f469.chunk.js.map": "/developerFolio/static/js/769.7be7f469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7857a8.css",
+    "static/js/main.ec712925.js"
+  ]
+}
